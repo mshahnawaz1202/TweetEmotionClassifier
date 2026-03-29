@@ -408,37 +408,6 @@ After working with this pipeline, you'll understand:
 - [Gensim Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html)
 - [Imbalanced-learn Documentation](https://imbalanced-learn.org/)
 
----
 
-## 👤 Author
-
-**Shahnawaz**
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest improvements
-- Add new classifiers or vectorization techniques
-- Improve documentation
-
----
-
-## 💡 Future Enhancements
-
-- [ ] Add BERT/Transformer-based embeddings
-- [ ] Implement cross-validation
-- [ ] Add hyperparameter tuning (GridSearchCV)
-- [ ] Deploy as web API
-- [ ] Add real-time prediction functionality
-- [ ] Support for multilingual datasets
 
 
